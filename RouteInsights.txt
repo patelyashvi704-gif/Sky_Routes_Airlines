@@ -1,0 +1,18 @@
+======================================================================
+SKYROUTES AIRLINES - ROUTE PROFITABILITY ANALYSIS INSIGHTS
+======================================================================
+
+1. High-Cost Aircraft Types:
+   Aircraft models with lower seat capacities running on long-duration routes operate on negative profit margins due to excessive operational costs per seat.
+
+2. High Revenue vs Low Profit Routes:
+   Certain international routes generate peak top-line revenue, but elevated fuel and operational costs severely diminish overall profit margins.
+
+3. Duration & Distance Impact:
+   Short-to-medium haul domestic flights demonstrate higher profit margins per flight minute than long-haul international flights.
+
+4. Demand Trends:
+   Monthly analysis highlights seasonal profit spikes during mid-year holiday periods, while off-season months suffer low seat occupancy and cost overhangs.
+
+5. Strategic Recommendation:
+   Reallocate low-occupancy aircraft to high-demand domestic corridors and adjust ticket pricing structure on underperforming international routes.
